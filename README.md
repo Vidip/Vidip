@@ -4,16 +4,20 @@ I like exploring new Javascript frameworks and latest libraries or changes made 
 - 🌱 I’m currently learning Advanced Redux concepts and adapting to the changes.
 
 ## Expertise
-React
+React,  Vue Js
+<br>
 NodeJs
+<br>
 AWS
-Python
-Java
-Vue
+<br>
+Python, Java
+<br>
 Django Rest Framework
+<br>
 SQL (PostgreSQL)
-ElasticSearch
-MongoDB
+<br>
+ElasticSearch, MongoDB
+<br>
 Docker
 
 <!---
