@@ -21,6 +21,9 @@ ElasticSearch, MongoDB
 Docker
 <br>
 BDD, TDD
+
+## My Medium Profile:
+I like writing technical stuff, here you can find some of the technical articles explaining concepts in Depth: https://medium.com/@vidipmalhotra
 <!---
 Vidip/Vidip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
