@@ -7,7 +7,7 @@ React,  Vue Js
 <br>
 NodeJs
 <br>
-AWS
+AWS - Server and Serverless Resources
 <br>
 Python, Java
 <br>
