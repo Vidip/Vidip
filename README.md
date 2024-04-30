@@ -3,7 +3,7 @@
 I am AWS Community Builder and find ways to optimize cloud stack both in terms of cloud pricing and performance.
 
 ## Expertise
-React,  Vue Js
+React
 <br>
 NodeJs
 <br>
@@ -11,7 +11,7 @@ AWS - Server and Serverless Resources
 <br>
 Python, Java
 <br>
-Django Rest Framework
+Django Rest Framework / Spring Boot
 <br>
 SQL (PostgreSQL)
 <br>
