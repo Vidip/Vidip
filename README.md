@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vidip Malhotra, and have around 5 years of industry experience in Full Stack Development, ETL pipeline and Cloud Technologies
+- 👋 Hi, I’m Vidip Malhotra, and have around 6+ years of industry experience in Full Stack Development, ETL pipeline and Cloud Technologies
 - 👀 I’m interested in building optimized application with best possible design patterns and reusable code. 
 I am AWS Community Builder and find ways to optimize cloud stack both in terms of cloud pricing and performance.
 
